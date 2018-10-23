@@ -14,7 +14,7 @@ public class readme {
  * 
  * Reduce the deck size until 0 remain
  * 
- * 
+ * Download the jar file to demonstrate functional program.
  * 
  * 
  * 
