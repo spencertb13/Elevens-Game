@@ -14,7 +14,7 @@ public class readme {
  * 
  * Reduce the deck size until 0 remain
  * 
- * 
+ * In order to run the game download the .jar file.
  * 
  * 
  * 
